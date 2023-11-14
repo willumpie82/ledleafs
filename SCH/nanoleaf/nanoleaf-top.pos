@@ -1,0 +1,42 @@
+### Footprint positions - created on  ###
+### Printed by KiCad version 7.0.9
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                      Package                                               PosX       PosY       Rot  Side
+C1        100nF                    C_0201_0603Metric                                 136.1590   -47.3100  180.0000  top
+C2        100nF                    C_0201_0603Metric                                 136.1590   -49.8500  180.0000  top
+C3        100nF                    C_0201_0603Metric                                 144.7140   -30.8610    0.0000  top
+C4        100nF                    C_0201_0603Metric                                 143.8910   -66.6750  -120.0000  top
+C5        100nF                    C_0201_0603Metric                                 137.0330   -68.9610  -120.0000  top
+C6        100nF                    C_0201_0603Metric                                 153.9240   -62.2300  180.0000  top
+C7        100nF                    C_0201_0603Metric                                 153.9240   -72.2630  180.0000  top
+C8        10uF                     C_Elec_3x5.4                                      152.1460   -64.8970  180.0000  top
+C9        10uF                     C_Elec_3x5.4                                      152.2010   -69.3420  180.0000  top
+D1        SK6812                   LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                 144.6530   -49.6570    0.0000  top
+D2        SK6812                   LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                 126.4920   -81.0260   60.0000  top
+D3        SK6812                   LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                 108.4580  -112.5220   60.0000  top
+D4        SK6812                   LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                  90.0430  -143.8910  180.0000  top
+D5        SK6812                   LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                 126.4920  -144.3990  180.0000  top
+D6        SK6812                   LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                 162.9410  -144.3990  180.0000  top
+D7        SK6812                   LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                 199.1360  -144.0180  180.0000  top
+D8        SK6812                   LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                 180.8480  -112.5220  -60.0000  top
+D9        SK6812                   LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                 162.8140   -81.0260  -60.0000  top
+D10       SK6812                   LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm                 144.6160  -112.4710    0.0000  top
+J1        Conn_01x03_Pin           JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   116.7519   -96.5445  -120.0000  top
+J2        Conn_01x03_Pin           JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   144.7960  -144.6530    0.0000  top
+J3        Conn_01x03_Pin           JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal   173.2280   -97.5360  120.0000  top
+J7        Conn_01x05_Pin           PinHeader_1x06_P2.54mm_Vertical                   129.9210   -48.5140  150.0000  top
+J8        USB_C_Receptacle_USB2.0  USB_C_Receptacle_HRO_TYPE-C-31-M-12               161.1417   -54.6958  120.0000  top
+R1        5K1                      R_0603_1608Metric                                 165.7350   -59.5630   30.0000  top
+R2        5K1                      R_0603_1608Metric                                 159.1310   -48.1330  -150.0000  top
+R3        10K                      R_0603_1608Metric                                 135.3820   -71.6280  -120.0000  top
+SW1       SW_Push                  SW_SPST_B3U-1000P                                 141.9470   -65.5838   60.0000  top
+SW2       SW_Push                  SW_SPST_B3U-1000P                                 139.1920   -70.3580  -120.0000  top
+SW3       SW_DPDT_x2               SW_DPDT_CK_JS202011JCQN                           144.6930  -139.0080    0.0000  top
+SW4       SW_DPDT_x2               SW_DPDT_CK_JS202011JCQN                           167.8908  -100.6699  -60.0000  top
+SW6       SW_DPDT_x2               SW_DPDT_CK_JS202011JCQN                           122.0470   -99.5680  -120.0000  top
+U1        ESP32-C3-MINI-1          ESP32-C3-MINI-1                                   129.5783   -62.1984   60.0000  top
+U2        SN74AUP1T34DCK           SOT-353_SC-70-5                                   138.6990   -48.5800   90.0000  top
+U3        VEML7700-TT              XDCR_VEML7700-TT                                  144.7800   -27.9400   90.0000  top
+U4        AMS1117CD-3.3            TO-252-3_TabPin2                                  163.0190   -66.8020    0.0000  top
+## End
